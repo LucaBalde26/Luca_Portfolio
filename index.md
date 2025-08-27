@@ -10,3 +10,7 @@ I am a data science graduate student and student-athlete at Southeastern Univers
 - 🌍 Languages: Italian, English, Spanish  
 
 📄 [Download My Resume](resume/Resume.pdf)  
+
+- [Capstone](capstone/)      <!-- capstone/README.md renders at /capstone/ -->
+- [Projects](projects.md)    <!-- or ./projects -->
+
