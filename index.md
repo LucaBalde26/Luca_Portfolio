@@ -11,6 +11,6 @@ I am a data science graduate student and student-athlete at Southeastern Univers
 
 📄 [Download My Resume](resume/Resume.pdf)  
 
-- [Capstone](capstone/)      <!-- capstone/README.md renders at /capstone/ -->
+- [Capstone](capstone.md)      <!-- capstone/README.md renders at /capstone/ -->
 - [Projects](projects.md)    <!-- or ./projects -->
 
